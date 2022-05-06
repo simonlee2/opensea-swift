@@ -1,3 +1,3 @@
-# OpenSea
+# OpenSea Swift
 
-A description of this package.
+A wrapper of the OpenSea API in Swift
